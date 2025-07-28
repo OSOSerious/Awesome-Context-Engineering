@@ -1434,8 +1434,8 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
     </a>
 </li>
 <li><i><b>Model Context Protocol (MCP)</b></i>
-    <a href="https://github.com/anthropics/mcp" target="_blank">
-        <img src="https://img.shields.io/github/stars/anthropics/mcp.svg?style=social" alt="GitHub stars">
+    <a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank">
+        <img src="https://img.shields.io/github/stars/modelcontextprotocol/modelcontextprotocol.svg?style=social" alt="GitHub stars">
     </a>
 </li>
 <li><i><b>Agent2Agent (A2A) Protocol</b></i>
