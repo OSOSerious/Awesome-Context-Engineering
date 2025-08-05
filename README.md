@@ -191,6 +191,12 @@ This repository serves as a comprehensive survey of context engineering techniqu
     <a href="https://snap-research.github.io/locomo/" target="_blank">
   		<img src="https://img.shields.io/github/stars/snap-research/locomo.svg?style=social" alt="GitHub stars">
     </a></li>
+<li><i><b>Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions</b></i>, Hu et al.,<a href="https://arxiv.org/abs/2507.05257" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.07-red" alt="arXiv Badge"></a>
+    <a href="https://github.com/HUST-AI-HYZ/MemoryAgentBench" target="_blank">
+  		<img src="https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench.svg?style=social" alt="GitHub stars"></a>
+      <a href="https://huggingface.co/datasets/ai-hyz/MemoryAgentBench" target="_blank">
+  		<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg" alt="HF Dataset">
+    </a></li>
 <li><i><b>Episodic Memories Generation and Evaluation Benchmark for Large Language Models</b></i>, Anonymous et al., <a href="https://arxiv.org/abs/2501.13121" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.01-red" alt="arXiv Badge"></a>
     </li>
 <li><i><b>On the Structural Memory of LLM Agents</b></i>, Anonymous et al., <a href="https://arxiv.org/abs/2412.15266" target="_blank"><img src="https://img.shields.io/badge/arXiv-2024.12-red" alt="arXiv Badge"></a>
