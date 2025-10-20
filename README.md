@@ -2,16 +2,6 @@
 
 ---
 
-## 🔗 Related Survey
-
-<b>General AI Survey Papers</b>
-
-<ul>
-<li><i><b>A Survey of Large Language Models</b></i>, Zhao et al.,<a href="https://arxiv.org/abs/2303.18223" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.03-red" alt="arXiv Badge"></a>
-    <a href="https://github.com/RUCAIBox/LLMSurvey" target="_blank">
-  		<img src="https://img.shields.io/github/stars/RUCAIBox/LLMSurvey.svg?style=social" alt="GitHub stars">
-    </a>
-</li>
 <li><i><b>The Prompt Report: A Systematic Survey of Prompt Engineering Techniques</b></i>, Schulhoff et al., <a href="https://arxiv.org/abs/2406.06608" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.02-red" alt="arXiv Badge"></a>
     <a href="https://github.com/trigaten/The_Prompt_Report" target="_blank">
   		<img src="https://img.shields.io/github/stars/trigaten/The_Prompt_Report.svg?style=social" alt="GitHub stars">
